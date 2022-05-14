@@ -2,7 +2,7 @@
   "name": "Storyarchives",
   "short_name": "Storyarchives",
   "start_url": "index.html",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "black",
   "theme_color": "black",
   "orientation": "portrait",
